@@ -5,6 +5,9 @@
 // *********************************************************************************
 
 // When the page loads, grab and display all of our chirps
+var chirpDOM = $("chirp");
+var nameDOM = $("name");
+var chirpDivDOM = $("chirpDiv")
 
 
 // When user chirps
